@@ -10,4 +10,4 @@ Under this greeting you can find my best projects, such as game automation using
 
 Hope you'll enjoy!
 
-![Profile views](https://komarev.com/ghpvc/?username=lipa44&color=success&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=uroborosq&color=success&style=flat-square)
