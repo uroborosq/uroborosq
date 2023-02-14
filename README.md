@@ -12,3 +12,6 @@ Hope you'll enjoy!
 
 ![](https://komarev.com/ghpvc/?username=uroborosq&color=success&style=flat-square)
 ![Profile updated](https://img.shields.io/github/last-commit/uroborosq/uroborosq?label=Profile%20updated&style=flat-square)
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
