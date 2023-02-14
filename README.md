@@ -10,5 +10,5 @@ Under this greeting you can find my best projects, such as game automation using
 
 Hope you'll enjoy!
 
-![Profile views](https://komarev.com/ghpvc/?username=uroborosq&color=success&style=flat-square)
+[](https://komarev.com/ghpvc/?username=uroborosq&color=success&style=flat-square)
 ![Profile updated](https://img.shields.io/github/last-commit/uroborosq/uroborosq?label=Profile%20updated&style=flat-square)
