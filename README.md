@@ -10,8 +10,14 @@ Under this greeting you can find my best projects, such as game automation using
 
 Hope you'll enjoy!
 
+<div display="block">
+<!-- 	<img align="left" width="48%" alt="isocalendar" src=".github/metrics/isocalendar_metrics.svg" />
+	<img align="center" width="48%" alt="contributions" src=".github/metrics/contributions_metrics.svg" /> -->
+	<img align="center" alt="languages" src=".github/metrics/languages_metrics.svg" />
+</div>
+
 ![](https://komarev.com/ghpvc/?username=uroborosq&color=success&style=flat-square)
-![Profile updated](https://img.shields.io/github/last-commit/uroborosq/uroborosq?label=Profile%20updated&style=flat-square)
+![](https://img.shields.io/github/last-commit/uroborosq/uroborosq?label=Profile%20updated&style=flat-square)
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
