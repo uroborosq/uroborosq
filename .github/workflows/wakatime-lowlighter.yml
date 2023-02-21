@@ -17,5 +17,5 @@ jobs:
           filename: .github/metrics/wakatime_metrics.svg
           base: ""
           plugin_wakatime: yes
-          plugin_wakatime_sections: time, languages-graphs, os-graphs
+          plugin_wakatime_sections: time, languages-graphs
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
