@@ -17,5 +17,5 @@ Hope you'll enjoy!
 </div> -->
 <img align="center" alt="languages" src=".github/metrics/wakatime_metrics.svg" />
 
-![](https://komarev.com/ghpvc/?username=uroborosq&color=success&style=flat-square)
+<!-- ![](https://komarev.com/ghpvc/?username=uroborosq&color=success&style=flat-square) -->
 <!-- [](https://img.shields.io/github/last-commit/uroborosq/uroborosq?label=Profile%20updated&style=flat-square) -->
