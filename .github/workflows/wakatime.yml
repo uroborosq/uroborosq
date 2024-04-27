@@ -16,6 +16,10 @@ jobs:
         with:
           token: ${{ github.token }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SHOW_TOTAL: true
+          IGNORED_LANGUAGES: YAML JSON
+          TIME_RANGE: all_time
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them
           #GH_TOKEN: ${{ secrets.GH_TOKEN }}
