@@ -19,5 +19,6 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, languages-graphs
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          TIME_RANGE: all_time # optional
+          plugin_wakatime_languages_ignored: JSON, YAML, Makefile
+          plugin_wakatime_days: 365
 
