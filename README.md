@@ -19,4 +19,13 @@ Hope you'll enjoy!
 <!-- [](https://img.shields.io/github/last-commit/uroborosq/uroborosq?label=Profile%20updated&style=flat-square) -->
 
 <!--START_SECTION:waka-->
+
+```txt
+Go                   13 hrs 44 mins  █████████████████████▒░░░   84.70 %
+Dart                 43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+YAML                 21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+JSON                 18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+protobuf             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+```
+
 <!--END_SECTION:waka-->
