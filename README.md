@@ -13,7 +13,6 @@ Hope you'll enjoy!
 	<img align="center" width="48%" alt="contributions" src=".github/metrics/contributions_metrics.svg" />
 	<img align="center" alt="languages" src=".github/metrics/languages_metrics.svg" />
 </div> -->
-<img align="center" alt="languages" src=".github/metrics/wakatime_metrics.svg" />
 
 <!-- ![](https://komarev.com/ghpvc/?username=uroborosq&color=success&style=flat-square) -->
 <!-- [](https://img.shields.io/github/last-commit/uroborosq/uroborosq?label=Profile%20updated&style=flat-square) -->
