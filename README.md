@@ -20,11 +20,15 @@ Hope you'll enjoy!
 <!--START_SECTION:waka-->
 
 ```txt
-Go                   13 hrs 44 mins  █████████████████████▒░░░   84.70 %
-Dart                 43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-YAML                 21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-JSON                 18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-protobuf             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+From: 13 February 2023 - To: 27 April 2024
+
+Total Time: 943 hrs 38 mins
+
+Go                        570 hrs 53 mins ███████████████░░░░░░░░░░   60.19 %
+Dart                      110 hrs 30 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+TypeScript                55 hrs 34 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Python                    48 hrs 22 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+Kotlin                    31 hrs 41 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 ```
 
 <!--END_SECTION:waka-->
