@@ -22,13 +22,13 @@ Hope you'll enjoy!
 ```txt
 From: 13 February 2023 - To: 27 April 2024
 
-Total Time: 1,349 hrs 10 mins
+Total Time: 1,372 hrs 37 mins
 
-Go                        820 hrs 24 mins ███████████████░░░░░░░░░░   60.34 %
-Dart                      148 hrs 38 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
-TypeScript                71 hrs 57 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-Python                    69 hrs 29 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
-Kotlin                    43 hrs 39 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Go                        837 hrs 40 mins ███████████████░░░░░░░░░░   60.57 %
+Dart                      148 hrs 2 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
+TypeScript                76 hrs 38 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+Python                    69 hrs 31 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+Kotlin                    43 hrs 39 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
 ```
 
 <!--END_SECTION:waka-->
