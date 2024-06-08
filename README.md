@@ -20,13 +20,13 @@ Hope you'll enjoy!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2023 - To: 05 June 2024
+From: 13 February 2023 - To: 06 June 2024
 
-Total Time: 1,479 hrs 5 mins
+Total Time: 1,479 hrs 20 mins
 
-Go                        917 hrs 23 mins ███████████████▒░░░░░░░░░   61.36 %
-Dart                      151 hrs 23 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-TypeScript                76 hrs 38 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+Go                        917 hrs 23 mins ███████████████▒░░░░░░░░░   61.34 %
+Dart                      151 hrs 23 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+TypeScript                76 hrs 38 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
 Python                    69 hrs 31 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
 Kotlin                    43 hrs 39 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
