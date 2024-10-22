@@ -16,15 +16,15 @@ IT and Linux enthuasiat. I enjoy exploring the world of programming and desktop 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2023 - To: 19 October 2024
+From: 13 February 2023 - To: 21 October 2024
 
-Total Time: 2,075 hrs 26 mins
+Total Time: 2,081 hrs 11 mins
 
-Go                        1,374 hrs 18 mins████████████████▒░░░░░░░░   65.52 %
-Dart                      152 hrs 43 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-Python                    79 hrs 57 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-TypeScript                76 hrs 38 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Lua                       64 hrs 21 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Go                        1,379 hrs 12 mins████████████████▒░░░░░░░░   65.57 %
+Dart                      152 hrs 43 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+Python                    80 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+TypeScript                76 hrs 38 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Lua                       64 hrs 54 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
 ```
 
 <!--END_SECTION:waka-->
