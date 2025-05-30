@@ -16,7 +16,7 @@ IT and Linux enthuasiat. I enjoy exploring the world of programming and desktop 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2023 - To: 27 May 2025
+From: 13 February 2023 - To: 28 May 2025
 
 Total Time: 2,833 hrs 11 mins
 
