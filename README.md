@@ -1,7 +1,3 @@
-### Welcome to my profile
-
----
-
 Develop things.
 
 <!-- <div display="block">
