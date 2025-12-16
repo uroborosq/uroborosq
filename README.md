@@ -2,7 +2,7 @@
 
 ---
 
-IT and Linux enthuasiat. I enjoy exploring the world of programming and desktop Linux configuring and customization. You can find my configs and scripts for Sway and Hyprland [here](https://github.com/uroborosq/mess-of-linux-configurations).
+Develop things.
 
 <!-- <div display="block">
  	<img align="left" width="48%" alt="isocalendar" src=".github/metrics/isocalendar_metrics.svg" />
