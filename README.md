@@ -12,14 +12,14 @@ Develop things.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2023 - To: 31 December 2025
+From: 13 February 2023 - To: 02 January 2026
 
-Total Time: 3,388 hrs 29 mins
+Total Time: 3,389 hrs 5 mins
 
-Go                        2,432 hrs 6 mins█████████████████▓░░░░░░░   71.19 %
+Go                        2,432 hrs 6 mins█████████████████▓░░░░░░░   71.18 %
 Dart                      178 hrs 44 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
 Lua                       92 hrs 46 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-Python                    91 hrs 43 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Python                    91 hrs 43 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
 Protocol Buffer           78 hrs 29 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
