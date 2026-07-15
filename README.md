@@ -12,7 +12,7 @@ Develop things.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2023 - To: 12 July 2026
+From: 13 February 2023 - To: 13 July 2026
 
 Total Time: 3,761 hrs 45 mins
 
